@@ -15,7 +15,7 @@ body{
 	position: absolute;
 	background: rgba(00,0,0,0.4);
 	text-align: center;
-	transform: translate(-50%,-50%);
+
 }
 
 .box h1{
